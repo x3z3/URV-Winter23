@@ -33,3 +33,7 @@ This takes the TangramsRace.json file and generates a simplified JSON file in th
   ]
 }
 ```
+
+## Create the graph
+
+To create the graph, take the simplifiedgraph simplified graph, put it in the main folder, and run the python program `graph.py`. This will generate a `graph.png` file.

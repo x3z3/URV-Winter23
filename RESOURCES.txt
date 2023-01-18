@@ -9,3 +9,6 @@ Theory of minimizing DFAs:
 https://www.youtube.com/watch?v=hOzc4BUIXRk
 
 https://www.geeksforgeeks.org/how-to-parse-json-data-into-react-table-component/
+
+Visualizing networks in python
+https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
