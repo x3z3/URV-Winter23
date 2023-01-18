@@ -1,0 +1,11 @@
+https://www.w3schools.com/js/js_json_parse.asp
+
+https://www.w3schools.com/js/js_json_objects.asp
+
+Minimization using hand (Moore's algo if im not wrong)
+https://www.youtube.com/watch?v=0XaGAkY09Wc
+
+Theory of minimizing DFAs:
+https://www.youtube.com/watch?v=hOzc4BUIXRk
+
+https://www.geeksforgeeks.org/how-to-parse-json-data-into-react-table-component/
